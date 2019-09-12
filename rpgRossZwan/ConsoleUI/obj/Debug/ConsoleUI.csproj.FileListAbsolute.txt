@@ -1,0 +1,7 @@
+D:\Fall 2019\CSC 253 - Advanced C#\Project\rpgRossZwan\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+D:\Fall 2019\CSC 253 - Advanced C#\Project\rpgRossZwan\ConsoleUI\bin\Debug\ConsoleUI.exe
+D:\Fall 2019\CSC 253 - Advanced C#\Project\rpgRossZwan\ConsoleUI\bin\Debug\ConsoleUI.pdb
+D:\Fall 2019\CSC 253 - Advanced C#\Project\rpgRossZwan\ConsoleUI\obj\Debug\ConsoleUI.csprojAssemblyReference.cache
+D:\Fall 2019\CSC 253 - Advanced C#\Project\rpgRossZwan\ConsoleUI\obj\Debug\ConsoleUI.csproj.CoreCompileInputs.cache
+D:\Fall 2019\CSC 253 - Advanced C#\Project\rpgRossZwan\ConsoleUI\obj\Debug\ConsoleUI.exe
+D:\Fall 2019\CSC 253 - Advanced C#\Project\rpgRossZwan\ConsoleUI\obj\Debug\ConsoleUI.pdb
